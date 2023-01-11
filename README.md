@@ -1,2 +1,254 @@
-# NCERT
-Solutions free without jhanjhat
+!doctype html>
+
+<html>
+
+<head>
+
+ <style>body{background-color:black}
+
+  h1{font-family:comic sans ms;font-size:x-large;color:cyan;text-align;centre}
+
+  h6{font-family:comic sans ms;font-size:x-large;color:cyan;text-align;centre}
+
+ .change_content:after{
+
+   content:'';
+
+   animation: changetext 5S infinite linear;
+
+   color:whitesmoke
+
+ }
+
+   @keyframes changetext{
+
+     0%{content:"DHRUV CHINTAMAN BORSE";}
+
+     20%{content:"PRAN GANESH SHIRSATH";}
+
+     40%{content: "YASH DNYANESHWAR PATIL";}
+
+     60%{CONTENT:"MOHIT RAVINDRA PATIL";}
+
+     80%{content:"ROSHAN PRAVIN PATIL";}
+
+    }
+
+ 
+
+  </style>
+
+<body  ><pre>
+
+                                         
+
+                                             <h1>
+
+                                 Ncert Solution for Class 7
+
+                                        Alien Hand
+
+                                    Tiger In The House
+
+                                    
+
+</h1>
+
+<P STYLE="text-align:centre; FONT-FAMILY:SansitaSwashedlight;font-size:x-large;color:yellowgreen;text-align;centre">
+
+1. He had the distinction of being the only member of the party to have bagged any game...
+
+The phrase in italics means
+
+(i) Grandfather was the most distinguished member of the party.
+
+(ii) Grandfather was the only sportsperson in the party.
+
+(iii) Grandfather was the only successful member of the hunting party. Mark the right answer.
+
+Ans: The phrase in italics means that the grandfather was the only successful member of the hunting party.
+
+2. Complete the following sentences.
+
+(i) Toto climbed up the curtains when 
+
+Ans: (i) Toto climbed up the curtains when Timothy lost its temper because Toto pulled it by the tail.
+
+(ii) , I became one of the tigers favourites.
+
+Ans: Timothy's favourite pastime was stalking anyone who would play with him, so when I moved in with 
+
+Grandfather, I became one of the tigers favourites.
+
+(iii) Timothy had clean habits, 
+
+Ans: Timothy had clean habits, and would scrub his face with his paws exactly like a cat.
+
+3. Grandmothers prophecy was that the tiger
+
+(i) would prefer Mahmouds bed to sleep in.
+
+(ii) and the cook would disappear together from the house.
+
+(iii) would one day make a meal of Mahmoud.
+
+Ans: Grandmothers prophecy was that the tiger (iii) would one day make a meal of Mahmoud.
+
+4. When Timothy was about six months old, a change came over him.
+
+The phrase in italics means that
+
+(i) Timothy had grown to his full size.
+
+(ii) Timothy grew more friendly.
+
+(iii) Timothy grew less friendly, in fact more dangerous
+
+Ans: The phrase in italics means that (iii) Timothy grew less friendly, in fact more dangerous.
+
+5. Write True or False against each of the following statements.
+
+(i) Timothy and Grandfather went to Lucknow in a special compartment.
+
+Ans: False
+
+(ii) The compartment in which Grandfather and Timothy travelled had no other passenger.
+
+Ans: True
+
+(iii) Timothy and Grandfather travelled in a first class compartment.
+
+Ans: True
+
+(iv) All passengers in the compartment thought that Timothy was a well-fed and civilised tiger.
+
+Ans: False
+
+6. Grandfather suggested that Timothy should be put in another cage.
+
+The reason was that
+
+(i) the tiger had become very bad tempered.
+
+(ii) a leopard in the next cage would constantly rush at Timothy.
+
+(iii) the cage was too small for a full grown tiger.
+
+Ans: The reason was that (ii) a leopard in the next cage would constantly rush at Timothy.
+
+7. The tiger was still licking his arm, with increasing relish. The phrase in
+
+italics suggests that Timothy
+
+(i) was good natured.
+
+(ii) recognised an old friend.
+
+(iii) smelt fresh food.
+
+Ans: The phrase in italics suggests that Timothy (iii) smelt fresh food.
+
+8. Where was the tiger cub hiding when Grandfather found him?
+
+Ans: When Grandfather discovered the tiger cub, he was hiding among the tangled roots of a banyan
+
+ tree.
+
+9. (i) What did Toto do to entertain Timothy?
+
+Ans: Toto pulled the tail of the cub Timothy.
+
+(ii) What did he do when Timothy lost his temper?
+
+Ans: If Timothy lost his temper, Toto would climb on the curtain.
+
+10. I became one of the tigers favourites. Who is 'I' in the statement? Why did he think so?
+
+Ans: Here, I refer to the author of the story: Ruskin Bond. Timothy used to stalk the author.
+
+ Whenever the author came, he'd move closer, roll on the author's back, and pretend to bite 
+
+ his ankles. This shows that the tiger was a huge admirer of the author.
+
+11. Where was Timothy most comfortable during the day? Where was he during the night?
+
+Ans: Timothys favourite place was the bedroom sofa. If someone tried to pull him out in the 
+
+morning, he would sit there and snarl.He used to spend his night in the cook's quarters.
+
+12. What was Grandmothers prophecy about the cook? Did it come true?
+
+Ans: With the advancement in age, Timothy was becoming less friendly. During the walk, his 
+
+eyes were on street cats and the dogs. In the night, Timothy was killing hens. He was 
+
+frequently seen gazing at the cook with a wicked purpose.
+
+13. What made Grandfather decide to transfer Timothy to the zoo?
+
+Ans: Timothy was getting increasingly threatening with each passing day. He would often 
+
+sneak out to stalk cats and dogs. However, when Timothy began stalking the cook, Grand
+
+father decided to send him to the zoo.
+
+14. Why did Grandfather want Timothy to be put in another enclosure?
+
+Ans: Grandfather wanted Timothy to be put in another enclosure because the leopard in 
+
+the adjoining cage would snarl at Timothy, making him feel uneasy and uncomfortable.
+
+15. What shocked Grandfather in the end?
+
+Ans: Grandfather was taken aback when the zookeeper informed him that Timothy had died
+
+ two months before. He was also shocked because his arm was nearly in the tiger's 
+
+ mouth, which he was licking with great delight.
+
+16. Shoot animals with a camera, not with a gun.
+
+Ans: Birds and animals form a part of all the gorgeous elements that nature provides us.
+
+ Shooting animals with a gun will only result in the extinction of their species over time.
+
+ Filming or shooting them using a camera, or taking images of them, makes it possible for 
+
+ their beauty to be shared with a larger audience and hence this is how their beauty could be 
+
+ heightened. Animals, like humans, are living beings with the right to live a free life.
+
+  Man's perverseness can be seen in the way he kills them for joy and entertainment.
+
+17. Keeping pets helps us become more loving and tolerant. It also helps us respect life in any form. 
+
+Do you agree?
+
+Ans: Keeping pets indeed makes one more loving and tolerant. Pets, like children, demand a 
+
+lot of care and attention.In return, they too bestow their love and affection and always 
+
+stay loyal. If we learn to love and respect animal life, we would also be able to harbour
+
+ genuine love and care for other fellow human beings and other forms of life.
+
+18. Have you heard of the Society for Prevention of Cruelty to Animals (SPCA)? What do they do?
+
+Ans: Yes. Founded in England in 1824, SPCA is a non-profit animal welfare organisation formed to pass 
+
+laws relating to animal protection and preventing cruelty against them. SPCA also works for locating 
+
+shelters for unwanted animals and passing them to the people who want to adopt them.
+
+<h6>CREATED BY <span class="change_content" ></span></h6>
+
+</p>
+
+</pre>
+
+</body>
+
+</head>
+
+</html>
+
