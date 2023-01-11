@@ -4,40 +4,7 @@
 
 <head>
 
- <style>body{background-color:black}
-
-  h1{font-family:comic sans ms;font-size:x-large;color:cyan;text-align;centre}
-
-  h6{font-family:comic sans ms;font-size:x-large;color:cyan;text-align;centre}
-
- .change_content:after{
-
-   content:'';
-
-   animation: changetext 5S infinite linear;
-
-   color:whitesmoke
-
- }
-
-   @keyframes changetext{
-
-     0%{content:"DHRUV CHINTAMAN BORSE";}
-
-     20%{content:"PRAN GANESH SHIRSATH";}
-
-     40%{content: "YASH DNYANESHWAR PATIL";}
-
-     60%{CONTENT:"MOHIT RAVINDRA PATIL";}
-
-     80%{content:"ROSHAN PRAVIN PATIL";}
-
-    }
-
  
-
-  </style>
-
 <body  ><pre>
 
                                          
@@ -54,7 +21,9 @@
 
 </h1>
 
-<P STYLE="text-align:centre; FONT-FAMILY:SansitaSwashedlight;font-size:x-large;color:yellowgreen;text-align;centre">
+
+
+
 
 1. He had the distinction of being the only member of the party to have bagged any game...
 
