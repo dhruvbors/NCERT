@@ -4,6 +4,11 @@
 
 <head>
 
+<Style>
+a{
+Width:10%; height:9vh;
+Font-family: fantasy;color:white;}
+</Style>
 
 <body  ><pre>
 
@@ -211,7 +216,7 @@ shelters for unwanted animals and passing them to the people who want to adopt t
 
 <h6>CREATED BY <span class="change_content" ></span></h6>
 <Nav>
-<a href="https://youtube.com/@pratibhaofficial122">SUBSCRIBE>
+<a href="https://youtube.com/@pratibhaofficial122">ABOUT US>
 </nav>
 </p>
 
